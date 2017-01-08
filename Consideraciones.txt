@@ -1,0 +1,17 @@
+Hoy en clases el profesor indico lo siquiente:
+Todas las tablas que pueden ser mantenibles deben considerar loa siguientes campos
+UsuarioCreacion
+FechaCreacion
+UsuarioEliminacion
+FechaEliminacion
+UsuarioActualiza
+FechaActualizacion
+
+
+comuna region pais ciudad no son mantenibles
+
+
+tablas que faltan en nuestro diagrama de base de datos
+
+cuidad comuna region pais
+
